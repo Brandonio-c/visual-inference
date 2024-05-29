@@ -15,7 +15,7 @@ The Visual Inference Project is designed to process videos by splitting them int
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.6 or higher (built using Python 3.12)
 - PyTorch 1.8.0
 - Torchvision 0.9.0
 - Pillow 8.1.2
